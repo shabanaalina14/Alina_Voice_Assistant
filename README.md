@@ -56,13 +56,6 @@ Linux:
 
 sudo apt-get install portaudio19-dev python3-pyaudio
 
-# 🎯 Usage
-
-Run the assistant:
-
-python alina.py
-
-# Available Commands
 ## Command	Action
 "Alina play [song name]"	Plays the song on YouTube
 
